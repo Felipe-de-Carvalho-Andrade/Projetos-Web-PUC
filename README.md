@@ -44,5 +44,5 @@ Exemplo de estrutura:
 Felipe de Carvalho Andrade
 Estudante de Sistemas de Informação — PUC Minas
 
-GitHub: https://github.com/Felipe-de-Carvalho-Andrade><br>
+GitHub: https://github.com/Felipe-de-Carvalho-Andrade<br>
 LinkedIn: https://www.linkedin.com/in/felipe-de-carvalho-andrade-it
