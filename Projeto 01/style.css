@@ -1,0 +1,66 @@
+html, body {
+    margin: 0;
+    overflow-x: hidden;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    background-image: url("images/stadium.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+header h1 {
+    font-size: 24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+main {
+    flex: 1;
+    padding: 2.5% 10%;
+}
+
+.container-img {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    margin-top: 0;
+    margin-bottom: 5%;     
+}
+
+img {
+    width: 50%;
+}
+
+#content {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+    font-size: 18px;
+}
+
+#content h2 {
+    font-size: 25px;
+}
+
+#reference {
+    font-size: 14px;
+    margin-top: 0;
+}
+
+footer {
+    color: black;
+    background-color: lightblue;
+    opacity: 0.3;
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-align: center;
+}
+
+a:hover {
+    color: rgb(255, 230, 0);
+}
+
