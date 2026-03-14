@@ -22,6 +22,7 @@ Praticar os conceitos básicos de desenvolvimento web, incluindo:
 
 ## 🧱 Estrutura do Projeto
 
+```
 Site-Pessoal/
 │
 ├── index.html
@@ -30,6 +31,7 @@ Site-Pessoal/
 └── images/
 └── favicon.png
 
+```
 ---
 
 ## 👨‍💻 Autor
